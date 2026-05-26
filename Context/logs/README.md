@@ -1,0 +1,1 @@
+this is a readme file to guide the llm for writing logs. this will explain how to write logs and what to log.

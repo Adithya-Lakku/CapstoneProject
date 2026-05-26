@@ -1,0 +1,1 @@
+this is project overview file . this contains the overview and antire scope of the whole project . this is not architure btw it is only for the llm to understand the objective of the project

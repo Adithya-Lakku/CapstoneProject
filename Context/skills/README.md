@@ -1,0 +1,1 @@
+this is readme file for skills . this will guide the llm about the various skills to use.
